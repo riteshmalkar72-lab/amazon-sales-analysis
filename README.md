@@ -1,6 +1,6 @@
-📊 Amazon Sales Analysis
+# 📊 Amazon Sales Analysis
 
- 📊 Dashboard Preview
+## 📊 Dashboard Preview📊 Dashboard Preview
 
 ![Amazon Sales Dashboard](dashboard.png)
 
@@ -10,7 +10,7 @@
 
 This project demonstrates an end-to-end data analytics workflow using an Amazon Sales dataset. The objective is to transform raw sales data into actionable business insights through data cleaning, SQL analysis, and an interactive Power BI dashboard.
 
- 🎯 Project Objectives
+ ## 🎯 Project Objectives
 
 * Clean and preprocess raw sales data using Python.
 * Analyze business performance using SQL.
@@ -18,7 +18,7 @@ This project demonstrates an end-to-end data analytics workflow using an Amazon 
 * Identify sales trends and generate business recommendations.
 
 
- 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 * Python (Pandas)
 * MySQL
@@ -27,7 +27,7 @@ This project demonstrates an end-to-end data analytics workflow using an Amazon 
 * Git & GitHub
 
 
- 📂 Dataset
+ ## 📂 Dataset
 
 * Rows: **10,000**
 * Columns: **21**
@@ -47,7 +47,7 @@ Key fields include:
 
 
 
-📈 Dashboard Features
+## 📈 Dashboard Features
 
 * 💰 Total Sales KPI
 * 📦 Total Orders
@@ -62,7 +62,7 @@ Key fields include:
 
 
 
- 🔍 Key Business Insights
+## 🔍 Key Business Insights
 
 * Sales performance varies across product categories.
 * Monthly sales trends help identify seasonal demand.
@@ -72,7 +72,7 @@ Key fields include:
 
 
 
- 📁 Project Structure
+## 📁 Project Structure
 
 ```text
 amazon-sales-analysis/
@@ -86,7 +86,7 @@ amazon-sales-analysis/
 ```
 
 
- 🚀 Future Improvements
+## 🚀 Future Improvements
 
 * Sales forecasting using machine learning.
 * Customer segmentation.
