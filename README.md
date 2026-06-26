@@ -1,5 +1,11 @@
 📊 Amazon Sales Analysis
 
+ 📊 Dashboard Preview
+
+![Amazon Sales Dashboard](dashboard.png)
+
+
+
  📌 Project Overview
 
 This project demonstrates an end-to-end data analytics workflow using an Amazon Sales dataset. The objective is to transform raw sales data into actionable business insights through data cleaning, SQL analysis, and an interactive Power BI dashboard.
